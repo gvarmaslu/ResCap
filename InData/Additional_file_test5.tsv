@@ -1,0 +1,4 @@
+Tffamily	Tfname	Domain	WheatChrm	Tissue	DevelopmentalStage
+AP2	AsTF0002	"147:206 PF00847.16:AP2:Domain;249:285 PF00847.16:AP2:Domain;"	3B	Root	DEVELOPMENTAL_STAGE=unknown_developmental_stage
+YABBY	AsTF7297	"61:215 PF04690.9:YABBY:Family;"	5B	Stem	DEVELOPMENTAL_STAGE=unknown_developmental_stage
+ZF-HD	AsTF7309	"4:30 PF04770.8:ZF-HD_dimer:Family;"	null	OtherTissues	DEVELOPMENTAL_STAGE=mixed
